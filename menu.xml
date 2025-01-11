@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <menu>
+        <item>
+            <nombre>
+                <es>Reservas</es>
+                <en>Reservations</en>
+                <br>Reservas</br>
+                <fr>Réservations</fr>
+            </nombre>
+            <link>reservas.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Paquetes y Promociones</es>
+                <en>Packages and Promotions</en>
+                <br>Pacotes e Promoções</br>
+                <fr>Forfaits et Promotions</fr>
+            </nombre>
+            <link>promociones.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Servicios del Hotel</es>
+                <en>Hotel Services</en>
+                <br>Serviços do Hotel</br>
+                <fr>Services de l'Hôtel</fr>
+            </nombre>
+            <link>servicios.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Galería</es>
+                <en>Gallery</en>
+                <br>Galeria</br>
+                <fr>Galerie</fr>
+            </nombre>
+            <link>galeria.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Entrada / Salida</es>
+                <en>Check-in / Check-out</en>
+                <br>Check-in / Check-out</br>
+                <fr>Arrivée / Départ</fr>
+            </nombre>
+            <link>entrada.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Contacto</es>
+                <en>Contact</en>
+                <br>Contato</br>
+                <fr>Contact</fr>
+            </nombre>
+            <link>contacto.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Preguntas Frecuentes</es>
+                <en>FAQ</en>
+                <br>Perguntas Frequentes</br>
+                <fr>FAQ</fr>
+            </nombre>
+            <link>faq.html</link>
+        </item>
+
+    </menu>
+    <textos>
+            <bienvenido>
+                <es>Bienvenidos</es>
+                <en>Welcome</en>
+                <br>Bem-vindos</br>
+                <fr>Bienvenue</fr>
+            </bienvenido>
+            <descripcion>
+                <es>"Bienvenidos a La Plata, donde la comodidad y el lujo se encuentran para ofrecerle una experiencia inolvidable."</es>
+                <en>"Welcome to La Plata, where comfort and luxury meet to offer you an unforgettable experience."</en>
+                <br>"Bem-vindos a La Plata, onde a comodidade e o luxo se encontram para oferecer-lhe uma experiência inesquecível."</br>
+                <fr>"Bienvenue à La Plata, où le confort et le luxe se rencontrent pour vous offrir une expérience inoubliable."</fr>
+            </descripcion>
+            <saludo>
+                <es>"En La Plata, cada detalle está diseñado para hacer de su estancia una verdadera experiencia de descanso y placer. Descubra nuestras elegantes habitaciones, excepcionales servicios y la hospitalidad que nos distingue."</es>
+                <en>"In La Plata, every detail is designed to make your stay a true experience of rest and pleasure. Discover our elegant rooms, exceptional services and the hospitality that distinguishes us."</en>
+                <br>"Em La Plata, cada detalhe é projetado para tornar sua estadia uma verdadeira experiência de descanso e prazer. Descubra nossos quartos elegantes, serviços excepcionais e a hospitalidade que nos distingue."</br>
+                <fr>"À La Plata, chaque détail est conçu pour faire de votre séjour une véritable expérience de repos et de plaisir. Découvrez nos chambres élégantes, nos services exceptionnels et l'hospitalité qui nous distingue."</fr>
+            </saludo>
+            <infor>
+                <es>información</es>
+                <en>information</en>
+                <br>informação</br>
+                <fr>information</fr>
+            </infor>
+            <servicios>
+                <es>Servicios ofrecidos</es>
+                <en>Services offered</en>
+                <br>Serviços oferecidos</br>
+                <fr>Services offerts</fr>
+            </servicios>
+            <ofertas>
+                <es>Ofertas especiales</es>
+                <en>Special offers</en>
+                <br>Ofertas especiais</br>
+                <fr>Offres spéciales</fr>
+            </ofertas>
+            <preguntas>
+                <es>Preguntas Frecuentes</es>
+                <en>FAQ</en>
+                <br>Perguntas Frequentes</br>
+                <fr>FAQ</fr>
+            </preguntas>
+    </textos>
+    <informa>
+        <historia>
+            <es>HISTORIA "Fundado en 2024, La Plata ha sido un refugio de elegancia y comodidad en el corazón de Potosi por más de 10 meses. Nuestra rica historia y tradición de hospitalidad han hecho de nuestro hotel un destino preferido para viajeros de todo el mundo."</es>
+            <en>HISTORY "Founded in 2024, La Plata has been a refuge of elegance and comfort in the heart of Potosi for over 10 months. Our rich history and tradition of hospitality have made our hotel a preferred destination for travelers from around the world."</en>
+            <br>HISTÓRIA "Fundado em 2024, La Plata tem sido um refúgio de elegância e conforto no coração de Potosi por mais de 10 meses. Nossa rica história e tradição de hospitalidade tornaram nosso hotel um destino preferido para viajantes de todo o mundo."</br>
+            <fr>HISTOIRE "Fondé en 2024, La Plata a été un refuge d'élégance et de confort au cœur de Potosi depuis plus de 10 mois. Notre riche histoire et notre tradition d'hospitalité ont fait de notre hôtel une destination privilégiée pour les voyageurs du monde entier."</fr>
+        </historia>
+        <ubicacion>
+            <es>UBICACION "Ubicado en el centro de Potosi, La Plata ofrece fácil acceso a las principales atracciones turísticas, centros comerciales y de negocios. Descubra la vibrante vida de la ciudad y disfrute de vistas panorámicas desde nuestras habitaciones y áreas comunes."</es>
+            <en>LOCATION "Located in the heart of Potosi, La Plata offers easy access to major tourist attractions, shopping and business centers. Discover the vibrant life of the city and enjoy panoramic views from our rooms and common areas."</en>
+            <br>LOCALIZAÇÃO "Localizado no coração de Potosi, La Plata oferece fácil acesso às principais atrações turísticas, centros comerciais e de negócios. Descubra a vida vibrante da cidade e desfrute de vistas panorâmicas de nossos quartos e áreas comuns."</br>
+            <fr>EMPLACEMENT "Situé au cœur de Potosi, La Plata offre un accès facile aux principales attractions touristiques, aux centres commerciaux et d'affaires. Découvrez la vie vibrante de la ville et profitez de vues panoramiques depuis nos chambres et espaces communs."</fr>
+        </ubicacion>
+        <mision>
+            <es>MISION Y VALORES"En La Plata, nuestra misión es proporcionar una experiencia de hospedaje incomparable, combinando el lujo con el confort y la calidez de la hospitalidad. Nos enorgullece ofrecer un servicio excepcional y garantizar que cada huésped se sienta como en casa."</es>
+            <en>MISSION AND VALUES "At La Plata, our mission is to provide an unparalleled lodging experience, combining luxury with comfort and the warmth of hospitality. We pride ourselves on offering exceptional service and ensuring that every guest feels at home."</en>
+            <br>MISSÃO E VALORES "Na La Plata, nossa missão é proporcionar uma experiência de hospedagem incomparável, combinando luxo com conforto e a calorosa hospitalidade. Orgulhamo-nos de oferecer um serviço excepcional e garantir que cada hóspede se sinta em casa."</br>
+            <fr>MISSION ET VALEURS "À La Plata, notre mission est de fournir une expérience d'hébergement inégalée, alliant luxe, confort et chaleur de l'hospitalité. Nous sommes fiers d'offrir un service exceptionnel et de veiller à ce que chaque client se sente chez lui."</fr>
+        </mision>
+    </informa>
+
+</content>

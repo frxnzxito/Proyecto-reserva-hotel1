@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <menu>
+        <item>
+            <nombre>
+                <es>Reservas</es>
+                <en>Reservations</en>
+                <br>Reservas</br>
+                <fr>Réservations</fr>
+            </nombre>
+            <link>reservas.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Paquetes y Promociones</es>
+                <en>Packages and Promotions</en>
+                <br>Pacotes e Promoções</br>
+                <fr>Forfaits et Promotions</fr>
+            </nombre>
+            <link>promociones.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Servicios del Hotel</es>
+                <en>Hotel Services</en>
+                <br>Serviços do Hotel</br>
+                <fr>Services de l'Hôtel</fr>
+            </nombre>
+            <link>servicios.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Galería</es>
+                <en>Gallery</en>
+                <br>Galeria</br>
+                <fr>Galerie</fr>
+            </nombre>
+            <link>galeria.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Entrada / Salida</es>
+                <en>Check-in / Check-out</en>
+                <br>Check-in / Check-out</br>
+                <fr>Arrivée / Départ</fr>
+            </nombre>
+            <link>entrada.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Contacto</es>
+                <en>Contact</en>
+                <br>Contato</br>
+                <fr>Contact</fr>
+            </nombre>
+            <link>contacto.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Preguntas Frecuentes</es>
+                <en>FAQ</en>
+                <br>Perguntas Frequentes</br>
+                <fr>FAQ</fr>
+            </nombre>
+            <link>faq.html</link>
+        </item>
+
+    </menu>
+    <servicios>
+        <titulo>
+            <es>Servicios del Hotel</es>
+            <en>Hotel Services</en>
+            <br>Serviços do Hotel</br>
+            <fr>Services de l'Hôtel</fr>
+        </titulo>
+        <sub1>
+            <es>Restaurante y Spa</es>
+            <en>Restaurant and Spa</en>
+            <br>Restaurante e Spa</br>
+            <fr>Restaurant et Spa</fr>
+        </sub1>
+        <desc1>
+            <es>Nuestro hotel ofrece una experiencia gastronómica única en nuestro restaurante gourmet, donde podrá disfrutar de una amplia variedad de platos internacionales preparados por nuestros chefs de renombre. Además, relájese en nuestro spa de lujo, que cuenta con una amplia gama de tratamientos de bienestar diseñados para rejuvenecer su cuerpo y mente.</es>
+            <en>Our hotel offers a unique gastronomic experience in our gourmet restaurant, where you can enjoy a wide variety of international dishes prepared by our renowned chefs. In addition, relax in our luxury spa, which features a wide range of wellness treatments designed to rejuvenate your body and mind.</en>
+            <br>Nosso hotel oferece uma experiência gastronômica única em nosso restaurante gourmet, onde você pode desfrutar de uma ampla variedade de pratos internacionais preparados por nossos chefs renomados. Além disso, relaxe em nosso spa de luxo, que oferece uma ampla gama de tratamentos de bem-estar projetados para rejuvenescer seu corpo e mente.</br>
+            <fr>Notre hôtel offre une expérience gastronomique unique dans notre restaurant gourmet, où vous pourrez déguster une grande variété de plats internationaux préparés par nos chefs renommés. De plus, détendez-vous dans notre spa de luxe, qui propose une large gamme de traitements de bien-être conçus pour rajeunir votre corps et votre esprit.</fr>
+        </desc1>
+        <sub2>
+            <es>Actividades y Tours Cercanos</es>
+            <en>Activities and Nearby Tours</en>
+            <br>Atividades e Passeios Próximos</br>
+            <fr>Activités et Visites à proximité</fr>
+        </sub2>
+        <desc2>
+            <es>Descubra las mejores actividades y tours en los alrededores de nuestro hotel. Desde visitas guiadas a puntos turísticos emblemáticos hasta emocionantes aventuras al aire libre, tenemos algo para cada tipo de viajero. Nuestro equipo de conserjería estará encantado de ayudarle a planificar su itinerario perfecto.</es>
+            <en>Discover the best activities and tours in the surroundings of our hotel. From guided visits to iconic tourist spots to thrilling outdoor adventures, we have something for every type of traveler. Our concierge team will be delighted to help you plan your perfect itinerary.</en>
+            <br>Descubra as melhores atividades e passeios nos arredores do nosso hotel. De visitas guiadas a pontos turísticos icônicos a emocionantes aventuras ao ar livre, temos algo para cada tipo de viajante. Nossa equipe de concierge terá prazer em ajudá-lo a planejar seu itinerário perfeito.</br>
+            <fr>Decouvrez les meilleures activités et visites à proximité de notre hôtel. Des visites guidées aux sites touristiques emblématiques aux aventures en plein air palpitantes, nous avons quelque chose pour chaque type de voyageur. Notre équipe de conciergerie sera ravie de vous aider à planifier votre itinéraire parfait.</fr>
+        </desc2>
+        <sub3>
+            <es>Servicios de Transporte</es>
+            <en>Transportation Services</en>
+            <br>Serviços de Transporte</br>
+            <fr>Services de Transport</fr>
+        </sub3>
+        <desc3>
+            <es>Para su comodidad, ofrecemos servicios de transporte desde y hacia el aeropuerto, así como alquiler de coches y traslados privados a diversos destinos. Nuestro objetivo es hacer que su viaje sea lo más cómodo y sin estrés posible.</es>
+            <en>For your convenience, we offer transportation services to and from the airport, as well as car rental and private transfers to various destinations. Our goal is to make your trip as comfortable and stress-free as possible.</en>
+            <br>Para sua comodidade, oferecemos serviços de transporte desde e para o aeroporto, bem como aluguel de carros e traslados privados para vários destinos. Nosso objetivo é tornar sua viagem o mais confortável e sem estresse possível.</br>
+            <fr>Pour votre commodité, nous offrons des services de transport depuis et vers l'aéroport, ainsi que la location de voitures et des transferts privés vers diverses destinations. Notre objectif est de rendre votre voyage aussi confortable et sans stress que possible.</fr>
+        </desc3>
+        <sub4>
+            <es>Galería de Instalaciones</es>
+            <en>Gallery of Facilities</en>
+            <br>Galeria de Instalações</br>
+            <fr>Galerie de Equipements</fr>
+        </sub4>
+        <desc4>
+            <es>Explore nuestra galería de fotos para obtener una visión detallada de las instalaciones de nuestro hotel. Desde nuestras elegantes habitaciones y suites hasta nuestras modernas áreas comunes, cada rincón está diseñado pensando en su comodidad y disfrute.</es>
+            <en>Discover our photo gallery to get a detailed view of our hotel. From our elegant rooms and suites to our modern common areas, every corner is designed with your comfort and enjoyment in mind.</en>
+            <br>Explore nossa galeria de fotos para obter uma visão detalhada das instalações do nosso hotel. Desde nossos quartos e suítes elegantes até nossas áreas comuns modernas, cada canto é projetado com seu conforto e diversão em mente.</br>
+            <fr>Découvrez notre galerie de photos pour obtenir une vue détaillée de nos installations. De nos chambres et suites élégantes à nos espaces communs modernes, chaque coin est conçu pour votre confort et votre plaisir.</fr>
+        </desc4>
+    </servicios>
+
+</content>

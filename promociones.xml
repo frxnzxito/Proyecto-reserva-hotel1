@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <menu>
+        <item>
+            <nombre>
+                <es>Reservas</es>
+                <en>Reservations</en>
+                <br>Reservas</br>
+                <fr>Réservations</fr>
+            </nombre>
+            <link>reservas.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Paquetes y Promociones</es>
+                <en>Packages and Promotions</en>
+                <br>Pacotes e Promoções</br>
+                <fr>Forfaits et Promotions</fr>
+            </nombre>
+            <link>promociones.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Servicios del Hotel</es>
+                <en>Hotel Services</en>
+                <br>Serviços do Hotel</br>
+                <fr>Services de l'Hôtel</fr>
+            </nombre>
+            <link>servicios.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Galería</es>
+                <en>Gallery</en>
+                <br>Galeria</br>
+                <fr>Galerie</fr>
+            </nombre>
+            <link>galeria.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Entrada / Salida</es>
+                <en>Check-in / Check-out</en>
+                <br>Check-in / Check-out</br>
+                <fr>Arrivée / Départ</fr>
+            </nombre>
+            <link>entrada.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Contacto</es>
+                <en>Contact</en>
+                <br>Contato</br>
+                <fr>Contact</fr>
+            </nombre>
+            <link>contacto.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Preguntas Frecuentes</es>
+                <en>FAQ</en>
+                <br>Perguntas Frequentes</br>
+                <fr>FAQ</fr>
+            </nombre>
+            <link>faq.html</link>
+        </item>
+
+    </menu>
+    <promociones>
+        <titulo>
+            <es>Paquetes y Promociones</es>
+            <en>Packages and Promotions</en>
+            <br>Pacotes e Promoções</br>
+            <fr>Packages et promotions</fr>
+        </titulo>
+        <sub1>
+            <es>Ofertas de Temporada</es>
+            <en>Seasonal Offers</en>
+            <br>Ofertas de Temporada</br>
+            <fr>Offres de saison</fr>
+        </sub1>
+        <desc1>
+            <es>Disfrute de nuestras ofertas exclusivas de temporada, diseñadas para que aproveche al máximo su estancia durante cualquier época del año. Desde descuentos en habitaciones hasta paquetes especiales para vacaciones, siempre tenemos algo especial para usted.</es>
+            <en>Enjoy our exclusive seasonal offers, designed to make the most of your stay at any time of the year. From discounts on rooms to special holiday packages, we always have something special for you.</en>
+            <br>Desfrute de nossas ofertas exclusivas de temporada, projetadas para aproveitar ao máximo sua estadia em qualquer época do ano. De descontos em quartos a pacotes especiais para feriados, sempre temos algo especial para você.</br>
+            <fr>Profitez de nos offres exclusives de saison, conçues pour maximiser votre séjour à tout moment de l'année. Des réductions sur les chambres aux forfaits spéciaux pour les vacances, nous avons toujours quelque chose de spécial pour vous.</fr>
+        </desc1>
+        <sub2>
+            <es>Paquetes Especiales para Grupos</es>
+            <en>Special Packages for Groups</en>
+            <br>Pacotes Especiais para Grupos</br>
+            <fr>Packages spéciaux pour les groupes</fr>
+        </sub2>
+        <desc2>
+            <es>Organice su próxima reunión familiar, evento corporativo o viaje grupal con nuestros paquetes especiales para grupos. Ofrecemos tarifas reducidas, actividades personalizadas y servicios exclusivos para garantizar una experiencia inolvidable para todos.</es>
+            <en>Organize your next family reunion, corporate event or group trip with our special packages for groups. We offer reduced rates, customized activities and exclusive services to ensure an unforgettable experience for everyone.</en>
+            <br>Organize sua próxima reunião de família, evento corporativo ou viagem em grupo com nossos pacotes especiais para grupos. Oferecemos tarifas reduzidas, atividades personalizadas e serviços exclusivos para garantir uma experiência inesquecível para todos.</br>
+            <fr>Organisez votre prochain rassemblement familial, événement d'entreprise ou voyage de groupe avec nos packages spéciaux pour les groupes. Nous offrons des tarifs réduits, des activités personnalisées et des services exclusifs pour garantir une expérience inoubliable pour tous.</fr>
+        </desc2>
+        <sub3>
+            <es>Paquetes de Lujo</es>
+            <en>Luxury Packages</en>
+            <br>Pacotes de Luxo</br>
+            <fr>Packages de luxe</fr>
+        </sub3>
+        <desc3>
+            <es>Consienta sus sentidos con nuestros paquetes de lujo, que incluyen alojamiento en nuestras suites más exclusivas, cenas gourmet, tratamientos de spa y servicios personalizados. Experimente el máximo confort y elegancia durante su estancia.</es>
+            <en>Indulge your senses with our luxury packages, which include accommodation in our most exclusive suites, gourmet dinners, spa treatments and personalized services. Experience the ultimate comfort and elegance during your stay.</en>
+            <br>Mime seus sentidos com nossos pacotes de luxo, que incluem acomodações em nossas suítes mais exclusivas, jantares gourmet, tratamentos de spa e serviços personalizados. Experimente o máximo conforto e elegância durante sua estadia.</br>
+            <fr>Plongez dans la décadence avec nos packages de luxe, qui incluent l'hébergement dans nos suites les plus exclusives, des dîners gastronomiques, des soins spa et des services personnalisés. Vivez le confort et l'élégance ultimes pendant votre séjour.</fr>
+        </desc3>
+        <sub4>
+            <es>Descuentos por Referidos</es>
+            <en>Referral Discounts</en>
+            <br>Descontos por Referidos</br>
+            <fr>Remises pour les références</fr>
+        </sub4>
+        <desc4>
+            <es>Invite a sus amigos y familiares a hospedarse con nosotros y obtenga descuentos exclusivos en su próxima visita. Nuestro programa de referidos le recompensa por compartir la experiencia única de [Nombre del Hotel] con sus seres queridos.</es>
+            <en>Invite your friends and family to stay with us and get exclusive discounts on your next visit. Our referral program rewards you for sharing the unique experience of [Hotel Name] with your loved ones.</en>
+            <br>Convide seus amigos e familiares a se hospedar conosco e obtenha descontos exclusivos em sua próxima visita. Nosso programa de referência recompensa você por compartilhar a experiência única de [Nome do Hotel] com seus entes queridos.</br>
+            <fr>Invitez vos amis et vos proches à séjourner avec nous et obtenez des réductions exclusives lors de votre prochaine visite. Notre programme de parrainage vous récompense pour avoir partagé l'expérience unique de [Nom de l'hôtel] avec vos proches.</fr>
+        </desc4>
+    </promociones>
+
+</content>

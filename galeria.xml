@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <menu>
+        <item>
+            <nombre>
+                <es>Reservas</es>
+                <en>Reservations</en>
+                <br>Reservas</br>
+                <fr>Réservations</fr>
+            </nombre>
+            <link>reservas.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Paquetes y Promociones</es>
+                <en>Packages and Promotions</en>
+                <br>Pacotes e Promoções</br>
+                <fr>Forfaits et Promotions</fr>
+            </nombre>
+            <link>promociones.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Servicios del Hotel</es>
+                <en>Hotel Services</en>
+                <br>Serviços do Hotel</br>
+                <fr>Services de l'Hôtel</fr>
+            </nombre>
+            <link>servicios.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Galería</es>
+                <en>Gallery</en>
+                <br>Galeria</br>
+                <fr>Galerie</fr>
+            </nombre>
+            <link>galeria.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Entrada / Salida</es>
+                <en>Check-in / Check-out</en>
+                <br>Check-in / Check-out</br>
+                <fr>Arrivée / Départ</fr>
+            </nombre>
+            <link>entrada.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Contacto</es>
+                <en>Contact</en>
+                <br>Contato</br>
+                <fr>Contact</fr>
+            </nombre>
+            <link>contacto.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Preguntas Frecuentes</es>
+                <en>FAQ</en>
+                <br>Perguntas Frequentes</br>
+                <fr>FAQ</fr>
+            </nombre>
+            <link>faq.html</link>
+        </item>
+    </menu>    
+    <galeria>
+        <titulo>
+            <es>Galería</es>
+            <en>Gallery</en>
+            <br>Galeria</br>
+            <fr>Galerie</fr>
+        </titulo>
+        <imag1>
+            <es>Elegantes habitaciones y suites<
+            <en> Elegant rooms and suites</en>
+            <br>Quartos elegantes e suites</br>
+            <fr>Chambres élégantes et suites</fr>
+        </imag1>
+        <imag2>
+            <es>Modernas áreas comunes</es>
+            <en>Modern common areas</en>
+            <br>Áreas comuns modernas</br>
+            <fr>Salles communes modernes</fr>
+        </imag2>
+        <imag3>
+            <es>Hermosos jardines</es>
+            <en>Beautiful gardens</en>
+            <br>Jardins bonitos</br>
+            <fr>Jardins beaux</fr>
+        </imag3>
+        <imag4>
+            <es>Espacios para eventos y reuniones</es>
+            <en>Spaces for events and meetings</en>
+            <br>Espaços para eventos e reuniões</br>
+            <fr>Salles pour événements et réunions</fr>
+        </imag4>
+        <testi>
+            <es>Testimonios de Clientes</es>
+            <en>Client Testimonials</en>
+            <br>Depoimentos de Clientes</br>
+            <fr>Testimonials de clients</fr>
+        </testi>
+        <testi1>
+            <es>"La experiencia en La Plata fue simplemente increíble. El servicio fue excepcional y las instalaciones están impecables."</es>
+            <en>"The experience in La Plata was simply incredible. The service was exceptional and the facilities are impeccable."</en>
+            <br>"A experiência em La Plata foi simplesmente incrível. O serviço foi excepcional e as instalações são impecáveis."</br>
+            <fr>“L'expérience à La Plata était simplement incroyable. Le service était exceptionnel et les installations sont impeccables.”</fr>
+        </testi1>
+        <testi2>
+            <es>"Pasé una semana maravillosa en este hotel. Las habitaciones son muy cómodas y el personal es muy amable."</es>
+            <en>"I spent a wonderful week at this hotel. The rooms are very comfortable and the staff is very friendly."</en>
+            <br>"Passei uma semana maravilhosa neste hotel. Os quartos são muito confortáveis e a equipe é muito simpática."</br>
+            <fr>“J'ai passé une semaine merveilleuse dans cet hôtel. Les chambres sont très confortables et le personnel est très sympathique.”</fr>
+        </testi2>
+        <rese>
+            <es>Reseñas y Valoraciones</es>
+            <en>Reviews and Ratings</en>
+            <br>Comentários e Avaliações</br>
+            <fr>Avis et Évaluations</fr>
+        </rese>
+        <rese1>
+            <es>"La Plata es uno de los mejores hoteles en los que me he hospedado. Lo recomiendo 100%." - TripAdvisor</es>
+            <en>"La Plata is one of the best hotels I've ever stayed at. I recommend it 100%." - TripAdvisor</en>
+            <br>"La Plata é um dos melhores hotéis em que já fiquei. Eu recomendo 100%." - TripAdvisor</br>
+            <fr>“La Plata est l'un des meilleurs hôtels où j'ai séjourné. Je le recommande à 100%.” - TripAdvisor</fr>
+        </rese1>
+        <rese2>
+            <es>"Excelente ubicación y servicio de primera clase. Sin duda volveré." - Google Reviews</es>
+            <en>"Excellent location and first class service. I will definitely return." - Google Reviews</en>
+            <br>"Localização excelente e serviço de primeira classe. Com certeza voltarei." - Google Reviews</br>
+            <fr>“Emplacement excellent et service de première classe. Je reviendrai certainement.” - Google Reviews</fr>
+        </rese2>
+        <vide>
+            <es>Videos de la Experiencia</es>
+            <en>Videos of the Experience</en>
+            <br>Vídeos da Experiência</br>
+            <fr>Vidéos de l'expérience</fr>
+        </vide>
+        <vide1>
+            <es>Recorrido virtual del hotel</es>
+            <en>Virtual tour of the hotel</en>
+            <br>Tour virtual do hotel</br>
+            <fr>Visite virtuelle de l'hôtel</fr>
+        </vide1>
+        <vide2>
+            <es>Entrevista con el personal</es>
+            <en>Interview with the staff</en>
+            <br>Entrevista com o pessoal</br>
+            <fr>Entretien avec le personnel</fr>
+        </vide2>
+    </galeria>
+
+</content>

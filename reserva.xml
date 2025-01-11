@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <menu>
+        <item>
+            <nombre>
+                <es>Reservas</es>
+                <en>Reservations</en>
+                <br>Reservas</br>
+                <fr>Réservations</fr>
+            </nombre>
+            <link>reservas.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Paquetes y Promociones</es>
+                <en>Packages and Promotions</en>
+                <br>Pacotes e Promoções</br>
+                <fr>Forfaits et Promotions</fr>
+            </nombre>
+            <link>promociones.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Servicios del Hotel</es>
+                <en>Hotel Services</en>
+                <br>Serviços do Hotel</br>
+                <fr>Services de l'Hôtel</fr>
+            </nombre>
+            <link>servicios.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Galería</es>
+                <en>Gallery</en>
+                <br>Galeria</br>
+                <fr>Galerie</fr>
+            </nombre>
+            <link>galeria.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Entrada / Salida</es>
+                <en>Check-in / Check-out</en>
+                <br>Check-in / Check-out</br>
+                <fr>Arrivée / Départ</fr>
+            </nombre>
+            <link>entrada.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Contacto</es>
+                <en>Contact</en>
+                <br>Contato</br>
+                <fr>Contact</fr>
+            </nombre>
+            <link>contacto.html</link>
+        </item>
+        <item>
+            <nombre>
+                <es>Preguntas Frecuentes</es>
+                <en>FAQ</en>
+                <br>Perguntas Frequentes</br>
+                <fr>FAQ</fr>
+            </nombre>
+            <link>faq.html</link>
+        </item>
+    </menu>
+    <formsol>
+        <solicitud>
+            <es>Solicitud de Reserva</es>
+            <en>Reservation Request</en>
+            <br>Solicitação de Reserva</br>
+            <fr>Demande de réservation</fr>
+        </solicitud>
+        <ide>
+            <es>Numero de identificación</es>
+            <en>Identification number</en>
+            <br>Numero de identificação</br>
+            <fr>Numéro d'identification</fr>
+        </ide>
+        <nombres>
+            <es>Nombre Completo</es>
+            <en>Full Name</en>
+            <br>Nome Completo</br>
+            <fr>Nom complet</fr>
+        </nombres>
+        <correo>
+            <es>Correo Electrónico</es>
+            <en>Email</en>
+            <br>Email</br>
+            <fr>Email</fr>
+        </correo>
+        <telefono>
+            <es>Teléfono</es>
+            <en>Phone</en>
+            <br>Telefone</br>
+            <fr>Téléphone</fr>
+        </telefono>
+        <habitacion>
+            <es>Tipo de Habitación</es>
+            <en>Room Type</en>
+            <br>Tipo de Quarto</br>
+            <fr>Typ de chambre</fr>
+        </habitacion>
+        <enviar>
+            <es>Enviar Solicitud</es>
+            <en>Send Request</en>
+            <br>Enviar Solicitação</br>
+            <fr>Envoyer la demande</fr>
+        </enviar>
+    </formsol>
+</content>
